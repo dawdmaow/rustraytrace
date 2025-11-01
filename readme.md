@@ -19,3 +19,6 @@ Convert PPM to PNG if PPM is not easily viewable (ImageMagick):
 ```bash
 convert image.ppm image.png
 ```
+
+## Output
+![image](output.png)
